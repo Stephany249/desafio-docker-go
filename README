@@ -1,0 +1,8 @@
+# Desafio Full Cycle Módulo Docker
+
+## Desafio Go
+Imagem do Dockerhub:
+```
+docker pull stephany249/fullcycle
+```
+Ao executar a mensagem `Full Cycle Rocks!!` ira aparecer no terminal
